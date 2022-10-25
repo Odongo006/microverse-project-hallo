@@ -11,7 +11,7 @@ Linters
 
 # Authors
 
-👤 Author1
+👤 Henry Omondi
 
 GitHub: @Odongo006 Twitter: @HenryOdongo007 LinkedIn: Henry Odongo
 
